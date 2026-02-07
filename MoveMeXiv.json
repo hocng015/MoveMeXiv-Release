@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Hoc",
+        "Name": "MoveMeXiv",
+        "Punchline": "Freely move your character to any coordinate on the map.",
+        "Description": "A plugin that allows you to teleport, mount, and move your character to specific map coordinates. Supports direct position setting, aetheryte teleportation, mount management, world travel, and Discord bot integration for remote control.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "movement",
+            "teleport",
+            "coordinates",
+            "navigation",
+            "mount",
+            "world travel",
+            "discord"
+        ],
+        "RepoUrl": "https://github.com/hocng015/MoveMeXiv-Release",
+        "AssemblyVersion": "1.0.0.0",
+        "InternalName": "MoveMeXiv",
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/hocng015/MoveMeXiv-Release/releases/latest/download/MoveMeXiv.zip",
+        "DownloadLinkUpdate": "https://github.com/hocng015/MoveMeXiv-Release/releases/latest/download/MoveMeXiv.zip"
+    }
+]
