@@ -2,15 +2,15 @@
     {
         "Author": "Hoc",
         "Name": "MoveMeXiv",
-        "Punchline": "Freely move your character to any coordinate on the map.",
-        "Description": "A plugin that allows you to teleport, mount, and move your character to specific map coordinates. Supports direct position setting, aetheryte teleportation, mount management, world travel, and Discord bot integration for remote control.",
+        "Punchline": "Destination-first travel — get your character anywhere with one command.",
+        "Description": "A unified travel plugin that chains data center, world, aetheryte, and coordinate movement into seamless journeys. Supports instant teleport, smooth movement, aetheryte teleportation, world travel, coordinate bookmarks, and remote control via Discord bot.",
         "ApplicableVersion": "any",
         "Tags": [
             "movement",
             "teleport",
             "coordinates",
             "navigation",
-            "mount",
+            "travel",
             "world travel",
             "discord"
         ],
