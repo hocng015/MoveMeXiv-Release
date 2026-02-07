@@ -3,7 +3,7 @@
         "Author": "Hoc",
         "Name": "MoveMeXiv",
         "Punchline": "Destination-first travel — get your character anywhere with one command.",
-        "Description": "A unified travel plugin that chains data center, world, aetheryte, and coordinate movement into seamless journeys. Supports instant teleport, smooth movement, aetheryte teleportation, world travel, coordinate bookmarks, and remote control via Discord bot.",
+        "Description": "A unified travel plugin that chains data center, world, aetheryte, and coordinate movement into seamless journeys. Mounts up and smoothly moves to coordinates, supports aetheryte teleportation, world travel (native + Lifestream IPC), coordinate bookmarks, and remote control via Discord bot.",
         "ApplicableVersion": "any",
         "Tags": [
             "movement",
@@ -15,7 +15,7 @@
             "discord"
         ],
         "RepoUrl": "https://github.com/hocng015/MoveMeXiv-Release",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "InternalName": "MoveMeXiv",
         "DalamudApiLevel": 14,
         "DownloadLinkInstall": "https://github.com/hocng015/MoveMeXiv-Release/releases/latest/download/MoveMeXiv.zip",
