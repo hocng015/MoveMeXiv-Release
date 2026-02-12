@@ -18,6 +18,7 @@
         "AssemblyVersion": "2.1.0.0",
         "InternalName": "MoveMeXiv",
         "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/hocng015/MoveMeXiv-Release/master/images/icon.png",
         "DownloadLinkInstall": "https://github.com/hocng015/MoveMeXiv-Release/releases/latest/download/MoveMeXiv.zip",
         "DownloadLinkUpdate": "https://github.com/hocng015/MoveMeXiv-Release/releases/latest/download/MoveMeXiv.zip"
     }
