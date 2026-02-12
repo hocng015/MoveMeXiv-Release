@@ -15,7 +15,7 @@
             "discord"
         ],
         "RepoUrl": "https://github.com/hocng015/MoveMeXiv-Release",
-        "AssemblyVersion": "2.0.0.0",
+        "AssemblyVersion": "2.1.0.0",
         "InternalName": "MoveMeXiv",
         "DalamudApiLevel": 14,
         "DownloadLinkInstall": "https://github.com/hocng015/MoveMeXiv-Release/releases/latest/download/MoveMeXiv.zip",
